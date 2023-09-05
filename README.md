@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Goyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav171203&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav171203" /> </p>
 
 - 🔭 I’m currently working on **Web development and DSA**
@@ -11,8 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-goyal-2317b722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-goyal-2317b722a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/i_vaibhavv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/i_vaibhavv/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaibhav-goyal-2317b722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-goyal-2317b722a" height="30" width="40" /></a>
+<a href="https://instagram.com/i_vaibhavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_vaibhavv" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/i_vaibhavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_vaibhavv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
