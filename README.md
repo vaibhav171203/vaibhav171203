@@ -10,10 +10,12 @@
 - 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **vaibhavgoyal1712@gmail.com**
+
  <a href="https://holopin.me/vaibhav171203"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://holopin.me/vaibhav171203"></a>
 <a href="https://linkedin.com/in/vaibhav-goyal-2317b722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-goyal-2317b722a" height="30" width="40" /></a>
 <a href="https://instagram.com/i_vaibhavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_vaibhavv" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/i_vaibhavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_vaibhavv" height="30" width="40" /></a>
