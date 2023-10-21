@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav171203&show_icons=true&locale=en&layout=compact" alt="vaibhav171203" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav171203&show_icons=true&locale=en" alt="vaibhav171203" /></p>
+
+[![An image of @vaibhav171203's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhav171203)](https://holopin.io/@vaibhav171203)
